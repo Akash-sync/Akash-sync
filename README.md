@@ -1,7 +1,8 @@
+## Markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=39FF14&center=true&width=800&lines=%24+whoami;Akash;Student+Developer;Writing+Code;Creating+Bugs;Fixing+Bugs;Claiming+it+was+a+feature" />
 </p>
----
+
 
 # Hey 👋 I'm Akash
 
@@ -16,6 +17,12 @@ and turning ideas into reality.
 - AI & Agentic Systems
 - Full Stack Development
 - Building in Public
+
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-sync&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-sync&layout=compact&theme=tokyonight&hide_border=true)
 
 ## About Me
 
