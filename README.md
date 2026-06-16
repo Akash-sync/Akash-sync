@@ -54,6 +54,10 @@ Mood: Still Shipping
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
+## Contribution Activity
+
+![snake](https://raw.githubusercontent.com/Akash-sync/Akash-sync/output/github-contribution-grid-snake.svg)
+
 ---
 
 > "Every startup begins as a crazy idea."
