@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey 👋 I'm Akash
 
-<!--
-**Akash-sync/Akash-sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder | AI Enthusiast | Startup Explorer
 
-Here are some ideas to get you started:
+Building projects, exploring emerging technologies,
+and turning ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+
+- ThaliX Finance Assistant
+- AI & Agentic Systems
+- Full Stack Development
+- Building in Public
+
+## About Me
+
+- Student Developer
+- 🇮🇳 Based in India
+- Passionate about AI, Startups & Innovation
+- Learning something new every day
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+---
+
+> "Every startup begins as a crazy idea."
