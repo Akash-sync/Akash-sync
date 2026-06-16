@@ -1,4 +1,3 @@
-## Markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=39FF14&center=true&width=800&lines=%24+whoami;Akash;Student+Developer;Writing+Code;Creating+Bugs;Fixing+Bugs;Claiming+it+was+a+feature" />
 </p>
@@ -30,6 +29,23 @@ and turning ideas into reality.
 - 🇮🇳 Based in India
 - Passionate about AI, Startups & Innovation
 - Learning something new every day
+
+## Current Status
+
+```bash
+Status: Building
+
+Current Mission:
+- Learning AI
+- Building Projects
+- Exploring Startup Ideas
+
+Coffee Level: ████████░░ 80%
+
+Bug Count: Classified
+
+Mood: Still Shipping
+```
 
 ## Tech Stack
 
